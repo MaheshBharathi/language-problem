@@ -24,3 +24,4 @@ Enhancements:
 4. The property files conf/lf/language-finder.properties, log4j.xml are currently not used. The idea is to use them to externalise the configuration.
 5. Enable sentence search
 6. List all the languages the word is valid
+7. 
