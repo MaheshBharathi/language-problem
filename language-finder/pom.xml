@@ -17,7 +17,7 @@
     </scm>
 
     <properties>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <mockito-all.version>1.9.5</mockito-all.version>
         <mockito.version>1.9.5</mockito.version>
         <surefire.plugin.version>2.17</surefire.plugin.version>
